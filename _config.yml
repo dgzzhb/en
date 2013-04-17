@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://tzheng.us/en
+author: Tian Zheng
+pygments: true
+
