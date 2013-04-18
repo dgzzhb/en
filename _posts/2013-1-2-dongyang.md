@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《送东阳马生序》
+title: A Farewell to Ma Junze of Dongyang
 category: reading
 ---
 今天看见有人发了一篇文言，读起来十分熟悉，竟然是自己当年的初中课文，应该是要求背诵的。那时的我不求甚解，虽然能背诵全文，但是没有认真思考。不知道是我不好学还是背诵的强制要求导致我兴趣全无呢？

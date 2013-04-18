@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 曹操之妻丁夫人
+title: Her Majesty Ding
 category: reading
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 标签页表与物理地址
+title: Page table and Physical Address
 category: code
 ---
 最近在学习操作系统的内存机制，研究了一下标签列表与物理地址，有一点心得，在这里做点笔记。
