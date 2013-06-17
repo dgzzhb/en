@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bayes' theorem, thoughts from "Fun of Thinking" 1
+title: Bayes' theorem, thoughts from "Fun of Thinking"
 category: reading
 ---
 这两天我在读一本很有趣的书，书名叫《思维的乐趣》。我这人既不爱数学也不爱统计，但这本书偏偏是说他们的。做信息技术数学用的不多，但是做计算机科学有的时候是真的不得不学习一些。书里很多内容让我产生很多思考，在这里记录一下。作者顾森，是北大应用语言学专业的，拜读他的大作十分佩服，不知道他是否有出国深造的打算。
