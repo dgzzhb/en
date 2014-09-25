@@ -29,3 +29,10 @@ drag and release helps a ton in Xcode, much easier than Java
 Dinner time: Pizza and Sliders!!!
 
 
+Unwind(An-waind) Segue - pop out stack
+This pops the entered textfield to the previous view.
+
+Click Save after change some attribute in the GUI!
+A friend here has a program that functions weird. We analysed from the compiler's point of
+view but failed to find out why. After a while, it is because that we did not click Save..
+
