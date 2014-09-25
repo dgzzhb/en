@@ -24,3 +24,8 @@ Navigation view:
 Uses Segue to transite from one scene to another
 
 drag and release helps a ton in Xcode, much easier than Java
+
+
+Dinner time: Pizza and Sliders!!!
+
+
