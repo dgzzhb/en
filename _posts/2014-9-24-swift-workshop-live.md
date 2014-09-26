@@ -50,3 +50,6 @@ Something good to add:
 3. found item details, delete items
 4. Use UIDocument to properly encapsulate items in Items Manager
 5. Use CloudKit for archive
+
+
+After the kick-off session, we have decided to use the word Air in our Team name. Here we start.
