@@ -53,3 +53,5 @@ Something good to add:
 
 
 After the kick-off session, we have decided to use the word Air in our Team name. Here we start.
+
+And, after all, we won the "Audience Choice" Award! I got an 128GB iPad mini Retina for that. Tomorrow is the interview from Apple, let's see how it works.
